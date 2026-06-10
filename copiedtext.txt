@@ -1,0 +1,49 @@
+
+% The contours of film thickness obtained after running the simulation for 60 seconds are seen in figure \ref{fig:icegrowth}. Additionally, the contours of the temperature along the inner walls are included in figure \ref{fig:outerwalltemp} in order to show that the temperature is nearly constant.
+% \begin{figure}[!ht]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{images/outer_flow.jpg}
+%     \caption{Contours of film thickness showing the thickness of ice grown on the surface of the fins}
+%     \label{fig:icegrowth}
+% \end{figure}
+% \begin{figure}[!ht]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{images/outer_wall_pipe.jpg}
+%     \caption{Contours of temperature on the pipes}
+%     \label{fig:outerwalltemp}
+% \end{figure}
+
+
+% \begin{table}[htb]
+%   \caption{Descriptive Statistics and Correlations for Variables}
+%   \label{tbl.1}
+%   \begin{tabularx}{\linewidth}{l*{6}{Y}}
+%     \toprule
+%     \multicolumn{7}{l}{\textbf{Panel A: Descriptive Statistics}} \\
+%     \midrule
+%               & Mean & Median & St.\ Dev. & IQR & 25$^{\textrm{th}}$ & 75$^{\textrm{th}}$ \\[0pt]
+%               &      &        &           &     & Percentile         & Percentile \\
+%     Variable 1 & 12.3 & 45.6   & 7.89      &  5  & 12.0                          & 0.22 \\
+%     Variable 2 &  8.3 &  1.0   & 0.01      & 12  & 99.9                          & 10.0 \\
+%     \ldots     &      &        &           &     &                               &      
+%   \end{tabularx}
+%   \begin{tabularx}{\linewidth}{l*{7}{Y}}
+%     \toprule
+%     \multicolumn{7}{l}{\textbf{Panel B: Correlations}} \\
+%     \midrule
+%               & Var.\ 1 & Var.\ 2 & Var.\ 3 & Var.\ 4 & Var.\ 5 & Var.\ 6 & Var.\ 7 \\
+%     Variable~1 &    0.78 &    0.37 &    0.48 &    0.10 &    0.13 &    0.58 &    0.41 \\
+%     Variable~2 &    0.46 &    0.86 &    0.96 &    0.44 &    0.15 &    0.56 &    0.31 \\
+%     Variable~3 &    0.03 &    0.75 &    0.11 &    0.44 &    0.71 &    0.06 &    0.26 \\
+%     Variable~4 &    0.21 &    0.25 &    0.38 &    0.88 &    0.24 &    0.52 &    0.46 \\
+%     Variable~5 &    0.20 &    0.93 &    0.54 &    0.96 &    0.55 &    0.82 &    0.62 \\
+%     Variable~6 &    0.67 &    0.85 &    0.74 &    0.99 &    0.27 &    0.48 &    0.85 \\
+%     Variable~7 &    0.82 &    0.89 &    0.68 &    0.06 &    0.02 &    0.30 &    0.10 \\
+%     \bottomrule
+%   \end{tabularx}
+
+%   [1]\ Footnote 1: Variable~1 is calculated as\ldots \endgraf
+%   [2]\ Correlations are Pearson.
+% \end{table}
+
+
